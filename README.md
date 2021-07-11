@@ -1,1 +1,2 @@
 # Jin-Kyoos-Password-Generator
+This is a simple password generator that lets you customize different things about your password. You have options to change upper and lowercase letters, numbers, and symbols as well as changing the password length. Once you are satisfied with the password clicking on the pink box will copy the password to your clipboard.
